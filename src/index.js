@@ -3,4 +3,4 @@ function sayHi(name) {
 }
 
 module.exports = sayHi
-// Test comment
+// Test comment 2
